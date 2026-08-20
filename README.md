@@ -3,7 +3,7 @@ A collection of written works and artistic analyses created as part of my studie
 The repository explores different forms of artistic expression, with a particular focus on music, theatre, ballet, and the relationship between the artist, the artwork, and the historical period in which it was created.
 
 
- eethoven — Moonlight Sonata
+Beethoven — Moonlight Sonata
 Ko je napisao Mesečevu sonatu — srce Betovena ili glas umetničkog doba?"
 
 An exploration of Ludwig van Beethoven's *Moonlight Sonata*, focusing on the relationship between his personal experiences, the loss of hearing, the transition from Classicism to Romanticism, and the possible artistic influences behind the work.
